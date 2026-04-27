@@ -25,14 +25,6 @@
 <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-purple" />
 </p>
 
----
-
-## 📊 Estatísticas GitHub
-
-<p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maelsousa&show_icons=true&theme=dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maelsousa&layout=compact&theme=dark"/>
-</p>
 
 ---
 
