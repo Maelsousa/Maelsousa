@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Manoel Sousa
 
-🎯 **Data Analyst | SQL | Power BI | Qlik Sense | ETL | Data Modeling**
+ **Data Analyst | SQL | Power BI | Qlik Sense | ETL | Data Modeling**
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou Analista de Dados com foco em transformar dados em insights estratégicos para negócios.
 
